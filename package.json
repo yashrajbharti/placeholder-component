@@ -1,0 +1,25 @@
+{
+  "name": "placeholder-component",
+  "version": "1.0.0",
+  "description": "A customizable placeholder web component for developers and designers to visualize empty spaces where future components will be built. This component is helpful in collaborative development environments, allowing team members to allocate visual space for in-progress elements, such as navigation bars, footers, and articles.",
+  "main": "placeholder-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashrajbharti/placeholder-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashrajbharti/placeholder-component/issues"
+  },
+  "homepage": "https://yashrajbharti.github.io/placeholder-component/",
+  "keywords": [
+    "web-component",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Yash",
+  "license": "MIT"
+}
